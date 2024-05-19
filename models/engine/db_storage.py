@@ -1,5 +1,7 @@
 #!/usr/bin/python3
-""" new class for sqlAlchemy """
+""" new class for sqlAlchemy 
+Adding task for web stack
+"""
 import models
 from models.amenity import Amenity
 from models.base_model import BaseModel, Base
